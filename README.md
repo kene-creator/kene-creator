@@ -45,7 +45,7 @@
 
 ##
 
-Currently studying as an international programmer in ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/?grsf=fds6ce)
+Currently a mentor at ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/?grsf=fds6ce)
 
 ##
 
