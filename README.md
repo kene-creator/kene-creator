@@ -21,9 +21,6 @@
 ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS-CSS3-blue) ![](https://img.shields.io/badge/HTML-haml-yellow) ![](https://img.shields.io/badge/git-Git-brightgreen) ![](https://img.shields.io/badge/CSS-Tailwind-CSS)
 
 ##
-
-- 🔭 I’m currently a mentor @ ![](https://img.shields.io/badge/Microverse-blueviolet)[Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school.
-- 🌱 I’m currently learning C# and ASP.NET.
 <!-- - 🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green) [](https://img.shields.io/npm/types/typescriptt). -->
 - 👯 I’m looking to collaborate on [LinkedIn](https://linkedin.com/in/kenechukwuagagwu) [WhatsApp](https://wa.me/2348178066257).
 - 💬 ![](https://img.shields.io/badge/Email-Gmail-red) keneagagwuu@gmail.com.
